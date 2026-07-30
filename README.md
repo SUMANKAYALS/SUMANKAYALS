@@ -1,36 +1,112 @@
-# 👋 Hi, I'm Suman Kayal
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Suman Kayal
 
-🚀 CSE Student | 💻 Full-Stack Developer | 🎯 Aspiring SDE  
+<h3 align="center">🚀 Full-Stack Developer • Computer Science Engineer • Open Source Contributor</h3>
 
-I build scalable web apps using modern technologies and focus on writing clean, efficient, and production-ready code.
+<p align="center">
+Passionate about building <strong>scalable, high-performance web applications</strong> with modern technologies.
+<br>
+I enjoy solving real-world problems, designing clean architectures, and creating production-ready software.
+</p>
 
----
-
-## ⚡ Tech Stack
-
-**Languages**  
-C • Java • Python • JavaScript • TypeScript  
-
-**Frontend**  
-React • Next.js • Tailwind CSS • HTML • CSS  
-
-**Backend**  
-Node.js • Express.js • Spring Boot • REST API  
-
-**Database**  
-MongoDB • MySQL  
-
-**Tools & Cloud**  
-Git • GitHub • Vercel • Clerk • VS Code • Maven  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUMANKAYALS&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/suman-kayal10/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SUMANKAYALS)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sumankayal_/)
+* 💻 Full-Stack Developer specializing in the **MERN Stack**
+* 🌱 Currently learning **Spring Boot, System Design, Docker & DevOps**
+* 🚀 Passionate about building scalable SaaS and real-time applications
+* 🤝 Open to collaborating on Open Source projects
+* 📚 Always learning new technologies and software engineering best practices
+* 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
-⭐ Always learning • Always building • Always improving
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMANKAYALS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMANKAYALS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SUMANKAYALS&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/suman-kayal10/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://github.com/SUMANKAYALS" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://www.instagram.com/sumankayal_/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Great software isn't just about writing code—it's about solving problems, building scalable systems, and continuously improving."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving a ⭐ to my repositories.**
+
+🚀 **Always Learning • Always Building • Always Improving**
+
+</p>
