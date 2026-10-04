@@ -5,14 +5,14 @@
 </h3>
 
 <p align="center">
-Passionate about building <strong>scalable, high-performance web applications</strong> with modern technologies.
-<br>
-I enjoy solving real-world problems, designing clean architectures, and creating production-ready software.
+  Passionate about building <strong>scalable, high-performance web applications</strong> with modern technologies.
+  <br>
+  I enjoy solving real-world problems, designing clean architectures, and creating production-ready software.
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=SUMANKAYALS&label=Profile%20Views&color=0e75b6&style=flat-square"
+  <img
+    src="https://komarev.com/ghpvc/?username=SUMANKAYALS&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
@@ -69,15 +69,27 @@ I enjoy solving real-world problems, designing clean architectures, and creating
 <p align="left">
 
 <a href="https://www.linkedin.com/in/suman-kayal10/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="48"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://github.com/SUMANKAYALS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="48"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.instagram.com/sumankayal_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+  <img
+    src="https://skillicons.dev/icons?i=instagram"
+    width="48"
+    alt="Instagram"
+  />
 </a>
 
 </p>
